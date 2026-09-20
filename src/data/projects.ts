@@ -20,6 +20,14 @@ export const projects: readonly Project[] = [
     liveUrl: "https://dentiste-landingpage.vercel.app/#",
     repoUrl: "https://github.com/abdelhamid11111111/dentiste-landingpage",
   },
+  
+  {
+    id: "workout-community",
+    image: "/projects/workout.png",
+    tags: ["Next.js", "Tailwind CSS", "Motion"],
+    liveUrl: "https://workout-community.vercel.app/",
+    repoUrl: "https://github.com/abdelhamid11111111/workout-community",
+  },
   {
     id: "Event Ticketing Platform",
     image: "/projects/TicketHeroPic.png",
@@ -40,13 +48,6 @@ export const projects: readonly Project[] = [
     tags: ["Node.js", "Pusher", "MongoDB"],
     liveUrl: "https://architect-landingpage-lime.vercel.app/",
     repoUrl: "https://github.com/abdelhamid11111111/architect-landingpage",
-  },
-  {
-    id: "workout-community",
-    image: "/projects/workout.png",
-    tags: ["Next.js", "Tailwind CSS", "Motion"],
-    liveUrl: "https://workout-community.vercel.app/",
-    repoUrl: "https://github.com/abdelhamid11111111/workout-community",
   },
   {
     id: "gym",
