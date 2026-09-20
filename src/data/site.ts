@@ -18,7 +18,7 @@ export const site = {
   email: "abdelhamidouglhacen@gmail.com",
   /** TODO: replace with the real number (international format, digits only). */
   whatsappNumber: "212681900795",
-  githubUrl: "https://github.com/abdelhamid11111111",
+  githubUrl: "https://github.com/abdelhamidouglhacen",
   /** TODO: replace with the real LinkedIn profile. */
   linkedinUrl: "https://www.linkedin.com/in/abdelhamid-oug-lhacen-932784411/",
 } as const;
