@@ -15,7 +15,7 @@ import type { Project } from "@/types";
 export const projects: readonly Project[] = [
   {
     id: "dental-clinic",
-    image: "https://www.upwork.com/att/download/portfolio/persons/uid/2098419158784005401/profile/projects/files/35df9a45-156a-4f71-b88e-0bbec6681041",
+    image: "/projects/dentiseEng.png",
     tags: ["Next.js", "TypeScript", "Sanity"],
     liveUrl: "https://dentiste-landingpage.vercel.app/#",
     repoUrl: "https://github.com/abdelhamid11111111/dentiste-landingpage",
@@ -44,14 +44,14 @@ export const projects: readonly Project[] = [
   },
   {
     id: "Architect",
-    image: "/projects/architectLandingpage.png",
+    image: "/projects/archiEng.png",
     tags: ["Node.js", "Pusher", "MongoDB"],
     liveUrl: "https://architect-landingpage-lime.vercel.app/",
     repoUrl: "https://github.com/abdelhamid11111111/architect-landingpage",
   },
   {
     id: "gym",
-    image: "/projects/gym.png",
+    image: "/projects/gymEng.png",
     tags: ["Next.js", "Tailwind CSS", "Motion"],
     liveUrl: "https://gym-landingpage-zeta.vercel.app/",
     repoUrl: "https://github.com/abdelhamid11111111/gym-landingpage",

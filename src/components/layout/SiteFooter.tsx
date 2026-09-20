@@ -17,7 +17,9 @@ export function SiteFooter({
   social: Dictionary["social"];
 }) {
   return (
-    <footer className="border-t border-border bg-muted/30">
+    // data-nosnippet keeps Google from using the footer text (name, copyright,
+    // contact line) as the search snippet in place of the meta description.
+    <footer data-nosnippet className="border-t border-border bg-muted/30">
       <div className="wrap flex flex-col gap-8 py-12 sm:flex-row sm:items-center sm:justify-between">
         <div className="flex flex-col gap-1.5">
           <SectionLink
