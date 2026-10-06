@@ -36,6 +36,7 @@ export const skillCategories: readonly SkillCategory[] = [
       { name: "REST APIs", icon: "api" },
       { name: "Next.js API Routes", icon: "nextjs" },
       { name: "Prisma", icon: "prisma" },
+      { name: "Supabase", icon: "supabase" },
       { name: "BetterAuth", icon: "betterauth" },
       { name: "OAuth", icon: "oauth" },
       { name: "JWT", icon: "jwt" },
